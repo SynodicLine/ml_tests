@@ -1,0 +1,7 @@
+*.code-workspace
+desktop.ini
+
+ROADMAP.md
+TODO.md
+
+local_models/
